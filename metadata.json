@@ -1,0 +1,5 @@
+{
+  "name": "VeriProfile",
+  "description": "Advanced Fake Profile Detector using simulated ML ensemble (LSTM, XGBoost, Random Forest) to analyze social media accounts.",
+  "requestFramePermissions": []
+}
